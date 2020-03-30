@@ -6,6 +6,18 @@ Pretendemos analisar sentimentos positivos ou negativos em realação ao governo
 
 Bora ver no que vai dar!
 
+## Steps
+
+1. Web Scraping
+    * coletar os pdfs do senado (done)
+    * coletar os pdfs da camara
+2. Processamento PDF
+    * transformar pdf em texto (done)
+3. Análise de sentimentos
+    * descobrir tutoriais
+    * ver como faz pra levar pra ptbr
+    * jogar tudo nos pdfs
+
 
 ## Acknowledgments
 
